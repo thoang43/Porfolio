@@ -745,8 +745,8 @@ img{
     }
     .home__img{
         order: 1;
-        justify-self: center;
     }
+
     .about__container,
     .skills__container,
     .project__container,
