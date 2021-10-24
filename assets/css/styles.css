@@ -426,37 +426,43 @@ img{
     display: block;
     background-color: var(--first-color);
 }
-
-.skills__html{
+/* Programming language */
+.skills__java{
     width: 90%;
 }
-
-.skills__css{
-    width: 90%;
-}
-
-.skills__javascript{
-    width: 90%;
-}
-
-.skills__django{
-    width: 90%;
-}
-
-.skills__nodejs{
-    width: 90%;
-}
-
-.skills__php{
-    width: 90%;
-}
-
 .skills__python{
     width: 90%;
 }
+.skills__cpp{
+    width: 70%;
+}
+.skills__c{
+    width: 70%;
+}
+.skills__bash{
+    width: 70%;
+}
+.skills__javascript{
+    width: 60%;
+}
+.skills__perl{
+    width: 60%;
+}
 
+.skills__git{
+    width: 80%;
+}
+.skills__ubuntu{
+    width: 70%;
+}
 .skills__docker{
-    width: 90%;
+    width: 60%;
+}
+.skills__virtualbox{
+    width: 60%;
+}
+.skills__django{
+    width: 50%;
 }
 
 .skills__close .skills__list{
